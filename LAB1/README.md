@@ -44,7 +44,7 @@ DEPLOY
   	}
 
 ANOTE ESTE NUMERO - É O SEU CHAINCODEID
-name:f36418256bceb88791308110694c45db39c76e562c58b6dcf1d7a91b3487a5600365e4360ef33582d2b1494ad196c8d291c3cbb0cd5c8a24d078d572b8439ff8
+name:3aeb9793d67968f966f2b093c361c70cdbf7a2813a02f7a5da344386580d3b519899b73003b335c587e3d016d44b54eb7d8030bddddbc3e9abf05db81c20eaef
 
 USE SEU CHAINCODE ID NOS PROXIMOS EXEMPLOS
 
@@ -57,7 +57,7 @@ QUERY
      	 "params": {
           "type": 2,
           "chaincodeID": {
-              "name": "f36418256bceb88791308110694c45db39c76e562c58b6dcf1d7a91b3487a5600365e4360ef33582d2b1494ad196c8d291c3cbb0cd5c8a24d078d572b8439ff8"
+              "name": "3aeb9793d67968f966f2b093c361c70cdbf7a2813a02f7a5da344386580d3b519899b73003b335c587e3d016d44b54eb7d8030bddddbc3e9abf05db81c20eaef"
           },
           "ctorMsg": {
 			"function": "read",
@@ -77,7 +77,7 @@ INVOKE
     	"params": {
         "type": 1,
         "chaincodeID": {
- 			 "name": "f36418256bceb88791308110694c45db39c76e562c58b6dcf1d7a91b3487a5600365e4360ef33582d2b1494ad196c8d291c3cbb0cd5c8a24d078d572b8439ff8"        },
+ 			 "name": "3aeb9793d67968f966f2b093c361c70cdbf7a2813a02f7a5da344386580d3b519899b73003b335c587e3d016d44b54eb7d8030bddddbc3e9abf05db81c20eaef"        },
         "ctorMsg": {
             "function": "write",
             "args": [
@@ -101,7 +101,7 @@ QUERY
      	 "params": {
           "type": 2,
           "chaincodeID": {
-              "name": "f36418256bceb88791308110694c45db39c76e562c58b6dcf1d7a91b3487a5600365e4360ef33582d2b1494ad196c8d291c3cbb0cd5c8a24d078d572b8439ff8"
+              "name": "3aeb9793d67968f966f2b093c361c70cdbf7a2813a02f7a5da344386580d3b519899b73003b335c587e3d016d44b54eb7d8030bddddbc3e9abf05db81c20eaef"
           },
           "ctorMsg": {
 			"function": "read",
