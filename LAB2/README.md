@@ -27,7 +27,7 @@
 
 3.3 composer archive create --sourceType dir --sourceName . -a ./dist/my-network.bna
  
-3.4 composer deploy network -a ./dist/my-network.bna -p hlfabric -i  WebAppAdmin -s DJY27pEnl16d
+3.4 composer network deploy -a ./dist/my-network.bna -p hlfabric -i  WebAppAdmin -s DJY27pEnl16d
 
 
 # 4 CREATE LOOPBACK WEBSERVICE 
