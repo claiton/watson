@@ -39,7 +39,7 @@ update
 # 4 CREATE LOOPBACK WEBSERVICE 
 ============================================================
 
-composer-rest-server -p hlfabric -n marbles-network -i WebAppAdmin -s DJY27pEnl16d -N never -P 3000 -S false
+nohup composer-rest-server -p hlfabric -n marbles-network -i WebAppAdmin -s DJY27pEnl16d -N never -P 3000 -S false&
 
 
 ![](https://raw.githubusercontent.com/plucena/hyperledger/master/composer/rest.png)
