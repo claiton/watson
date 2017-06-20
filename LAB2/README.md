@@ -26,8 +26,14 @@
 3.2 mkdir /root/marbles-network/dist
 
 3.3 composer archive create --sourceType dir --sourceName . -a ./dist/my-network.bna
+
+first time deploy
  
 3.4 composer network deploy -a ./dist/my-network.bna -p hlfabric -i  WebAppAdmin -s DJY27pEnl16d
+
+update
+
+3.5 composer network update -a ./dist/my-network.bna -p hlfabric -i  WebAppAdmin -s DJY27pEnl16d
 
 
 # 4 CREATE LOOPBACK WEBSERVICE 
